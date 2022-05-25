@@ -2,7 +2,8 @@
 ACMT (Animal Crossing Music Thing) Is a stupid project i'll be working on over the summer
 
 ## What exactly is this thing???
-Well this thing is proposed to be an arduino hooked up to some modules to make a toggleable on and off for animal crossing new leaf music dependent on the time of day.
+Well this thing is proposed to be an arduino hooked up to some modules to make a toggleable on and off for animal crossing new leaf music dependent on the time of day. <br>
+This thing is basically just me learning how an arduino works and doing something with the $20 I spent.
 
 ## What is it written in?
 Well you can easily see that on the right side of your screen. <br>
